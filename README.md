@@ -1,4 +1,4 @@
-##Roguelike Game - Monster Hunter
+Roguelike Game - Monster Hunter
 ![image](https://github.com/ppwxp/dungeon-crawl/assets/105491895/e6060bd6-3673-4e1b-93b7-dae744bc4f17)
 
 
